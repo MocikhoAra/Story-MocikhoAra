@@ -1,0 +1,63 @@
+body {
+    background-color: rgba(195, 209, 209, 0.37);
+    background-image: url(images/Wallpaper\ website-rev1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#judul1 {
+    margin: 0;
+    text-align: center;
+    font-size: 87px;
+}
+
+/* paragraph */
+#ppertama {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 110%;
+}
+
+#pkedua {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+#pketiga {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+/* pembatas border */
+hr {
+    border: 1px solid black;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.list-sihir {
+    list-style-type: square;
+    margin-left: 1px;
+    font-size: 22px;
+}
+
+/* warna untuk list-item. */
+#penciptaan {
+    color: blue;
+}
+#penghancuran {
+    color: red;
+}
+#ultimate {
+    color: rgba(0, 0, 0, 0.24);
+}
+#penetralan {
+    color: rgb(0, 172, 0);
+}
+
+#judulstory {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 87px;
+    text-align: center;
+    margin: 0;
+    color: rgb(24, 35, 70)
+}
